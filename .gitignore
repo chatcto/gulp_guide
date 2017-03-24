@@ -1,0 +1,15 @@
+/node_modules/
+/bower_components/
+/dist/
+./src/
+/vendor/
+.env
+.idea
+.project
+.editorconfig
+*.swp
+.vimrc
+.DS_Store
+/webback/
+.tag*
+.tags*
